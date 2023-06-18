@@ -1,0 +1,15 @@
+A:\Placement\dotNET\CopyConst1\bin\Debug\net7.0\CopyConst1.exe
+A:\Placement\dotNET\CopyConst1\bin\Debug\net7.0\CopyConst1.deps.json
+A:\Placement\dotNET\CopyConst1\bin\Debug\net7.0\CopyConst1.runtimeconfig.json
+A:\Placement\dotNET\CopyConst1\bin\Debug\net7.0\CopyConst1.dll
+A:\Placement\dotNET\CopyConst1\bin\Debug\net7.0\CopyConst1.pdb
+A:\Placement\dotNET\CopyConst1\obj\Debug\net7.0\CopyConst1.csproj.AssemblyReference.cache
+A:\Placement\dotNET\CopyConst1\obj\Debug\net7.0\CopyConst1.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\CopyConst1\obj\Debug\net7.0\CopyConst1.AssemblyInfoInputs.cache
+A:\Placement\dotNET\CopyConst1\obj\Debug\net7.0\CopyConst1.AssemblyInfo.cs
+A:\Placement\dotNET\CopyConst1\obj\Debug\net7.0\CopyConst1.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\CopyConst1\obj\Debug\net7.0\CopyConst1.dll
+A:\Placement\dotNET\CopyConst1\obj\Debug\net7.0\refint\CopyConst1.dll
+A:\Placement\dotNET\CopyConst1\obj\Debug\net7.0\CopyConst1.pdb
+A:\Placement\dotNET\CopyConst1\obj\Debug\net7.0\CopyConst1.genruntimeconfig.cache
+A:\Placement\dotNET\CopyConst1\obj\Debug\net7.0\ref\CopyConst1.dll

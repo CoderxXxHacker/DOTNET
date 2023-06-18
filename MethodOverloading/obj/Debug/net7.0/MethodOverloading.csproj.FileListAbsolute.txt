@@ -1,0 +1,15 @@
+A:\Placement\dotNET\MethodOverloading\bin\Debug\net7.0\MethodOverloading.exe
+A:\Placement\dotNET\MethodOverloading\bin\Debug\net7.0\MethodOverloading.deps.json
+A:\Placement\dotNET\MethodOverloading\bin\Debug\net7.0\MethodOverloading.runtimeconfig.json
+A:\Placement\dotNET\MethodOverloading\bin\Debug\net7.0\MethodOverloading.dll
+A:\Placement\dotNET\MethodOverloading\bin\Debug\net7.0\MethodOverloading.pdb
+A:\Placement\dotNET\MethodOverloading\obj\Debug\net7.0\MethodOverloading.csproj.AssemblyReference.cache
+A:\Placement\dotNET\MethodOverloading\obj\Debug\net7.0\MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\MethodOverloading\obj\Debug\net7.0\MethodOverloading.AssemblyInfoInputs.cache
+A:\Placement\dotNET\MethodOverloading\obj\Debug\net7.0\MethodOverloading.AssemblyInfo.cs
+A:\Placement\dotNET\MethodOverloading\obj\Debug\net7.0\MethodOverloading.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\MethodOverloading\obj\Debug\net7.0\MethodOverloading.dll
+A:\Placement\dotNET\MethodOverloading\obj\Debug\net7.0\refint\MethodOverloading.dll
+A:\Placement\dotNET\MethodOverloading\obj\Debug\net7.0\MethodOverloading.pdb
+A:\Placement\dotNET\MethodOverloading\obj\Debug\net7.0\MethodOverloading.genruntimeconfig.cache
+A:\Placement\dotNET\MethodOverloading\obj\Debug\net7.0\ref\MethodOverloading.dll

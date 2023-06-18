@@ -1,0 +1,15 @@
+A:\Placement\dotNET\CallByValue\bin\Debug\net7.0\CallByValue.exe
+A:\Placement\dotNET\CallByValue\bin\Debug\net7.0\CallByValue.deps.json
+A:\Placement\dotNET\CallByValue\bin\Debug\net7.0\CallByValue.runtimeconfig.json
+A:\Placement\dotNET\CallByValue\bin\Debug\net7.0\CallByValue.dll
+A:\Placement\dotNET\CallByValue\bin\Debug\net7.0\CallByValue.pdb
+A:\Placement\dotNET\CallByValue\obj\Debug\net7.0\CallByValue.csproj.AssemblyReference.cache
+A:\Placement\dotNET\CallByValue\obj\Debug\net7.0\CallByValue.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\CallByValue\obj\Debug\net7.0\CallByValue.AssemblyInfoInputs.cache
+A:\Placement\dotNET\CallByValue\obj\Debug\net7.0\CallByValue.AssemblyInfo.cs
+A:\Placement\dotNET\CallByValue\obj\Debug\net7.0\CallByValue.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\CallByValue\obj\Debug\net7.0\CallByValue.dll
+A:\Placement\dotNET\CallByValue\obj\Debug\net7.0\refint\CallByValue.dll
+A:\Placement\dotNET\CallByValue\obj\Debug\net7.0\CallByValue.pdb
+A:\Placement\dotNET\CallByValue\obj\Debug\net7.0\CallByValue.genruntimeconfig.cache
+A:\Placement\dotNET\CallByValue\obj\Debug\net7.0\ref\CallByValue.dll

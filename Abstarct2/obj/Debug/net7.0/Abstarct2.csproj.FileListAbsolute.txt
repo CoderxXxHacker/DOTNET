@@ -1,0 +1,15 @@
+A:\Placement\dotNET\Abstarct2\bin\Debug\net7.0\Abstarct2.exe
+A:\Placement\dotNET\Abstarct2\bin\Debug\net7.0\Abstarct2.deps.json
+A:\Placement\dotNET\Abstarct2\bin\Debug\net7.0\Abstarct2.runtimeconfig.json
+A:\Placement\dotNET\Abstarct2\bin\Debug\net7.0\Abstarct2.dll
+A:\Placement\dotNET\Abstarct2\bin\Debug\net7.0\Abstarct2.pdb
+A:\Placement\dotNET\Abstarct2\obj\Debug\net7.0\Abstarct2.csproj.AssemblyReference.cache
+A:\Placement\dotNET\Abstarct2\obj\Debug\net7.0\Abstarct2.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\Abstarct2\obj\Debug\net7.0\Abstarct2.AssemblyInfoInputs.cache
+A:\Placement\dotNET\Abstarct2\obj\Debug\net7.0\Abstarct2.AssemblyInfo.cs
+A:\Placement\dotNET\Abstarct2\obj\Debug\net7.0\Abstarct2.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\Abstarct2\obj\Debug\net7.0\Abstarct2.dll
+A:\Placement\dotNET\Abstarct2\obj\Debug\net7.0\refint\Abstarct2.dll
+A:\Placement\dotNET\Abstarct2\obj\Debug\net7.0\Abstarct2.pdb
+A:\Placement\dotNET\Abstarct2\obj\Debug\net7.0\Abstarct2.genruntimeconfig.cache
+A:\Placement\dotNET\Abstarct2\obj\Debug\net7.0\ref\Abstarct2.dll

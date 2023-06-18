@@ -1,0 +1,15 @@
+A:\Placement\dotNET\MultiThreading\WithtThread\obj\Debug\net7.0\WithtThread.csproj.AssemblyReference.cache
+A:\Placement\dotNET\MultiThreading\WithtThread\obj\Debug\net7.0\WithtThread.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\MultiThreading\WithtThread\obj\Debug\net7.0\WithtThread.AssemblyInfoInputs.cache
+A:\Placement\dotNET\MultiThreading\WithtThread\obj\Debug\net7.0\WithtThread.AssemblyInfo.cs
+A:\Placement\dotNET\MultiThreading\WithtThread\obj\Debug\net7.0\WithtThread.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\MultiThreading\WithtThread\bin\Debug\net7.0\WithtThread.exe
+A:\Placement\dotNET\MultiThreading\WithtThread\bin\Debug\net7.0\WithtThread.deps.json
+A:\Placement\dotNET\MultiThreading\WithtThread\bin\Debug\net7.0\WithtThread.runtimeconfig.json
+A:\Placement\dotNET\MultiThreading\WithtThread\bin\Debug\net7.0\WithtThread.dll
+A:\Placement\dotNET\MultiThreading\WithtThread\bin\Debug\net7.0\WithtThread.pdb
+A:\Placement\dotNET\MultiThreading\WithtThread\obj\Debug\net7.0\WithtThread.dll
+A:\Placement\dotNET\MultiThreading\WithtThread\obj\Debug\net7.0\refint\WithtThread.dll
+A:\Placement\dotNET\MultiThreading\WithtThread\obj\Debug\net7.0\WithtThread.pdb
+A:\Placement\dotNET\MultiThreading\WithtThread\obj\Debug\net7.0\WithtThread.genruntimeconfig.cache
+A:\Placement\dotNET\MultiThreading\WithtThread\obj\Debug\net7.0\ref\WithtThread.dll

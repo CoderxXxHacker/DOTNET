@@ -1,0 +1,15 @@
+A:\Placement\dotNET\AbstractDemo\bin\Debug\net7.0\AbstractDemo.exe
+A:\Placement\dotNET\AbstractDemo\bin\Debug\net7.0\AbstractDemo.deps.json
+A:\Placement\dotNET\AbstractDemo\bin\Debug\net7.0\AbstractDemo.runtimeconfig.json
+A:\Placement\dotNET\AbstractDemo\bin\Debug\net7.0\AbstractDemo.dll
+A:\Placement\dotNET\AbstractDemo\bin\Debug\net7.0\AbstractDemo.pdb
+A:\Placement\dotNET\AbstractDemo\obj\Debug\net7.0\AbstractDemo.csproj.AssemblyReference.cache
+A:\Placement\dotNET\AbstractDemo\obj\Debug\net7.0\AbstractDemo.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\AbstractDemo\obj\Debug\net7.0\AbstractDemo.AssemblyInfoInputs.cache
+A:\Placement\dotNET\AbstractDemo\obj\Debug\net7.0\AbstractDemo.AssemblyInfo.cs
+A:\Placement\dotNET\AbstractDemo\obj\Debug\net7.0\AbstractDemo.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\AbstractDemo\obj\Debug\net7.0\AbstractDemo.dll
+A:\Placement\dotNET\AbstractDemo\obj\Debug\net7.0\refint\AbstractDemo.dll
+A:\Placement\dotNET\AbstractDemo\obj\Debug\net7.0\AbstractDemo.pdb
+A:\Placement\dotNET\AbstractDemo\obj\Debug\net7.0\AbstractDemo.genruntimeconfig.cache
+A:\Placement\dotNET\AbstractDemo\obj\Debug\net7.0\ref\AbstractDemo.dll

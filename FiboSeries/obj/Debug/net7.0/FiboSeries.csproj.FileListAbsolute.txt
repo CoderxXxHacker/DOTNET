@@ -1,0 +1,15 @@
+A:\Placement\dotNET\FiboSeries\bin\Debug\net7.0\FiboSeries.exe
+A:\Placement\dotNET\FiboSeries\bin\Debug\net7.0\FiboSeries.deps.json
+A:\Placement\dotNET\FiboSeries\bin\Debug\net7.0\FiboSeries.runtimeconfig.json
+A:\Placement\dotNET\FiboSeries\bin\Debug\net7.0\FiboSeries.dll
+A:\Placement\dotNET\FiboSeries\bin\Debug\net7.0\FiboSeries.pdb
+A:\Placement\dotNET\FiboSeries\obj\Debug\net7.0\FiboSeries.csproj.AssemblyReference.cache
+A:\Placement\dotNET\FiboSeries\obj\Debug\net7.0\FiboSeries.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\FiboSeries\obj\Debug\net7.0\FiboSeries.AssemblyInfoInputs.cache
+A:\Placement\dotNET\FiboSeries\obj\Debug\net7.0\FiboSeries.AssemblyInfo.cs
+A:\Placement\dotNET\FiboSeries\obj\Debug\net7.0\FiboSeries.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\FiboSeries\obj\Debug\net7.0\FiboSeries.dll
+A:\Placement\dotNET\FiboSeries\obj\Debug\net7.0\refint\FiboSeries.dll
+A:\Placement\dotNET\FiboSeries\obj\Debug\net7.0\FiboSeries.pdb
+A:\Placement\dotNET\FiboSeries\obj\Debug\net7.0\FiboSeries.genruntimeconfig.cache
+A:\Placement\dotNET\FiboSeries\obj\Debug\net7.0\ref\FiboSeries.dll

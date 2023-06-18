@@ -1,0 +1,15 @@
+A:\Placement\dotNET\DataTypePerformance\bin\Debug\net7.0\DataTypePerformance.exe
+A:\Placement\dotNET\DataTypePerformance\bin\Debug\net7.0\DataTypePerformance.deps.json
+A:\Placement\dotNET\DataTypePerformance\bin\Debug\net7.0\DataTypePerformance.runtimeconfig.json
+A:\Placement\dotNET\DataTypePerformance\bin\Debug\net7.0\DataTypePerformance.dll
+A:\Placement\dotNET\DataTypePerformance\bin\Debug\net7.0\DataTypePerformance.pdb
+A:\Placement\dotNET\DataTypePerformance\obj\Debug\net7.0\DataTypePerformance.csproj.AssemblyReference.cache
+A:\Placement\dotNET\DataTypePerformance\obj\Debug\net7.0\DataTypePerformance.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\DataTypePerformance\obj\Debug\net7.0\DataTypePerformance.AssemblyInfoInputs.cache
+A:\Placement\dotNET\DataTypePerformance\obj\Debug\net7.0\DataTypePerformance.AssemblyInfo.cs
+A:\Placement\dotNET\DataTypePerformance\obj\Debug\net7.0\DataTypePerformance.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\DataTypePerformance\obj\Debug\net7.0\DataTypePerformance.dll
+A:\Placement\dotNET\DataTypePerformance\obj\Debug\net7.0\refint\DataTypePerformance.dll
+A:\Placement\dotNET\DataTypePerformance\obj\Debug\net7.0\DataTypePerformance.pdb
+A:\Placement\dotNET\DataTypePerformance\obj\Debug\net7.0\DataTypePerformance.genruntimeconfig.cache
+A:\Placement\dotNET\DataTypePerformance\obj\Debug\net7.0\ref\DataTypePerformance.dll

@@ -1,0 +1,15 @@
+A:\Placement\dotNET\Delegate3\bin\Debug\net7.0\Delegate3.exe
+A:\Placement\dotNET\Delegate3\bin\Debug\net7.0\Delegate3.deps.json
+A:\Placement\dotNET\Delegate3\bin\Debug\net7.0\Delegate3.runtimeconfig.json
+A:\Placement\dotNET\Delegate3\bin\Debug\net7.0\Delegate3.dll
+A:\Placement\dotNET\Delegate3\bin\Debug\net7.0\Delegate3.pdb
+A:\Placement\dotNET\Delegate3\obj\Debug\net7.0\Delegate3.csproj.AssemblyReference.cache
+A:\Placement\dotNET\Delegate3\obj\Debug\net7.0\Delegate3.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\Delegate3\obj\Debug\net7.0\Delegate3.AssemblyInfoInputs.cache
+A:\Placement\dotNET\Delegate3\obj\Debug\net7.0\Delegate3.AssemblyInfo.cs
+A:\Placement\dotNET\Delegate3\obj\Debug\net7.0\Delegate3.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\Delegate3\obj\Debug\net7.0\Delegate3.dll
+A:\Placement\dotNET\Delegate3\obj\Debug\net7.0\refint\Delegate3.dll
+A:\Placement\dotNET\Delegate3\obj\Debug\net7.0\Delegate3.pdb
+A:\Placement\dotNET\Delegate3\obj\Debug\net7.0\Delegate3.genruntimeconfig.cache
+A:\Placement\dotNET\Delegate3\obj\Debug\net7.0\ref\Delegate3.dll

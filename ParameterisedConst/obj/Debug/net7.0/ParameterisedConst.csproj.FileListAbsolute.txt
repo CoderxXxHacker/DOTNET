@@ -1,0 +1,15 @@
+A:\Placement\dotNET\ParameterisedConst\bin\Debug\net7.0\ParameterisedConst.exe
+A:\Placement\dotNET\ParameterisedConst\bin\Debug\net7.0\ParameterisedConst.deps.json
+A:\Placement\dotNET\ParameterisedConst\bin\Debug\net7.0\ParameterisedConst.runtimeconfig.json
+A:\Placement\dotNET\ParameterisedConst\bin\Debug\net7.0\ParameterisedConst.dll
+A:\Placement\dotNET\ParameterisedConst\bin\Debug\net7.0\ParameterisedConst.pdb
+A:\Placement\dotNET\ParameterisedConst\obj\Debug\net7.0\ParameterisedConst.csproj.AssemblyReference.cache
+A:\Placement\dotNET\ParameterisedConst\obj\Debug\net7.0\ParameterisedConst.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\ParameterisedConst\obj\Debug\net7.0\ParameterisedConst.AssemblyInfoInputs.cache
+A:\Placement\dotNET\ParameterisedConst\obj\Debug\net7.0\ParameterisedConst.AssemblyInfo.cs
+A:\Placement\dotNET\ParameterisedConst\obj\Debug\net7.0\ParameterisedConst.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\ParameterisedConst\obj\Debug\net7.0\ParameterisedConst.dll
+A:\Placement\dotNET\ParameterisedConst\obj\Debug\net7.0\refint\ParameterisedConst.dll
+A:\Placement\dotNET\ParameterisedConst\obj\Debug\net7.0\ParameterisedConst.pdb
+A:\Placement\dotNET\ParameterisedConst\obj\Debug\net7.0\ParameterisedConst.genruntimeconfig.cache
+A:\Placement\dotNET\ParameterisedConst\obj\Debug\net7.0\ref\ParameterisedConst.dll

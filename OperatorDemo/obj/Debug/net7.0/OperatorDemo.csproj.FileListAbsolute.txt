@@ -1,0 +1,15 @@
+A:\Placement\dotNET\OperatorDemo\bin\Debug\net7.0\OperatorDemo.exe
+A:\Placement\dotNET\OperatorDemo\bin\Debug\net7.0\OperatorDemo.deps.json
+A:\Placement\dotNET\OperatorDemo\bin\Debug\net7.0\OperatorDemo.runtimeconfig.json
+A:\Placement\dotNET\OperatorDemo\bin\Debug\net7.0\OperatorDemo.dll
+A:\Placement\dotNET\OperatorDemo\bin\Debug\net7.0\OperatorDemo.pdb
+A:\Placement\dotNET\OperatorDemo\obj\Debug\net7.0\OperatorDemo.csproj.AssemblyReference.cache
+A:\Placement\dotNET\OperatorDemo\obj\Debug\net7.0\OperatorDemo.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\OperatorDemo\obj\Debug\net7.0\OperatorDemo.AssemblyInfoInputs.cache
+A:\Placement\dotNET\OperatorDemo\obj\Debug\net7.0\OperatorDemo.AssemblyInfo.cs
+A:\Placement\dotNET\OperatorDemo\obj\Debug\net7.0\OperatorDemo.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\OperatorDemo\obj\Debug\net7.0\OperatorDemo.dll
+A:\Placement\dotNET\OperatorDemo\obj\Debug\net7.0\refint\OperatorDemo.dll
+A:\Placement\dotNET\OperatorDemo\obj\Debug\net7.0\OperatorDemo.pdb
+A:\Placement\dotNET\OperatorDemo\obj\Debug\net7.0\OperatorDemo.genruntimeconfig.cache
+A:\Placement\dotNET\OperatorDemo\obj\Debug\net7.0\ref\OperatorDemo.dll

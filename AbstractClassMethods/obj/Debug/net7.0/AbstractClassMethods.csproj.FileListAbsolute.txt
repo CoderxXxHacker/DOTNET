@@ -1,0 +1,15 @@
+A:\Placement\dotNET\AbstractClassMethods\bin\Debug\net7.0\AbstractClassMethods.exe
+A:\Placement\dotNET\AbstractClassMethods\bin\Debug\net7.0\AbstractClassMethods.deps.json
+A:\Placement\dotNET\AbstractClassMethods\bin\Debug\net7.0\AbstractClassMethods.runtimeconfig.json
+A:\Placement\dotNET\AbstractClassMethods\bin\Debug\net7.0\AbstractClassMethods.dll
+A:\Placement\dotNET\AbstractClassMethods\bin\Debug\net7.0\AbstractClassMethods.pdb
+A:\Placement\dotNET\AbstractClassMethods\obj\Debug\net7.0\AbstractClassMethods.csproj.AssemblyReference.cache
+A:\Placement\dotNET\AbstractClassMethods\obj\Debug\net7.0\AbstractClassMethods.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\AbstractClassMethods\obj\Debug\net7.0\AbstractClassMethods.AssemblyInfoInputs.cache
+A:\Placement\dotNET\AbstractClassMethods\obj\Debug\net7.0\AbstractClassMethods.AssemblyInfo.cs
+A:\Placement\dotNET\AbstractClassMethods\obj\Debug\net7.0\AbstractClassMethods.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\AbstractClassMethods\obj\Debug\net7.0\AbstractClassMethods.dll
+A:\Placement\dotNET\AbstractClassMethods\obj\Debug\net7.0\refint\AbstractClassMethods.dll
+A:\Placement\dotNET\AbstractClassMethods\obj\Debug\net7.0\AbstractClassMethods.pdb
+A:\Placement\dotNET\AbstractClassMethods\obj\Debug\net7.0\AbstractClassMethods.genruntimeconfig.cache
+A:\Placement\dotNET\AbstractClassMethods\obj\Debug\net7.0\ref\AbstractClassMethods.dll

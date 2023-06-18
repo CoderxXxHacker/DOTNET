@@ -1,0 +1,15 @@
+A:\Placement\dotNET\MultipleInheritance1\bin\Debug\net7.0\MultipleInheritance1.exe
+A:\Placement\dotNET\MultipleInheritance1\bin\Debug\net7.0\MultipleInheritance1.deps.json
+A:\Placement\dotNET\MultipleInheritance1\bin\Debug\net7.0\MultipleInheritance1.runtimeconfig.json
+A:\Placement\dotNET\MultipleInheritance1\bin\Debug\net7.0\MultipleInheritance1.dll
+A:\Placement\dotNET\MultipleInheritance1\bin\Debug\net7.0\MultipleInheritance1.pdb
+A:\Placement\dotNET\MultipleInheritance1\obj\Debug\net7.0\MultipleInheritance1.csproj.AssemblyReference.cache
+A:\Placement\dotNET\MultipleInheritance1\obj\Debug\net7.0\MultipleInheritance1.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\MultipleInheritance1\obj\Debug\net7.0\MultipleInheritance1.AssemblyInfoInputs.cache
+A:\Placement\dotNET\MultipleInheritance1\obj\Debug\net7.0\MultipleInheritance1.AssemblyInfo.cs
+A:\Placement\dotNET\MultipleInheritance1\obj\Debug\net7.0\MultipleInheritance1.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\MultipleInheritance1\obj\Debug\net7.0\MultipleInheritance1.dll
+A:\Placement\dotNET\MultipleInheritance1\obj\Debug\net7.0\refint\MultipleInheritance1.dll
+A:\Placement\dotNET\MultipleInheritance1\obj\Debug\net7.0\MultipleInheritance1.pdb
+A:\Placement\dotNET\MultipleInheritance1\obj\Debug\net7.0\MultipleInheritance1.genruntimeconfig.cache
+A:\Placement\dotNET\MultipleInheritance1\obj\Debug\net7.0\ref\MultipleInheritance1.dll

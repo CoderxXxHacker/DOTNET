@@ -1,0 +1,15 @@
+A:\Placement\dotNET\StaticConst\bin\Debug\net7.0\StaticConst.exe
+A:\Placement\dotNET\StaticConst\bin\Debug\net7.0\StaticConst.deps.json
+A:\Placement\dotNET\StaticConst\bin\Debug\net7.0\StaticConst.runtimeconfig.json
+A:\Placement\dotNET\StaticConst\bin\Debug\net7.0\StaticConst.dll
+A:\Placement\dotNET\StaticConst\bin\Debug\net7.0\StaticConst.pdb
+A:\Placement\dotNET\StaticConst\obj\Debug\net7.0\StaticConst.csproj.AssemblyReference.cache
+A:\Placement\dotNET\StaticConst\obj\Debug\net7.0\StaticConst.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\StaticConst\obj\Debug\net7.0\StaticConst.AssemblyInfoInputs.cache
+A:\Placement\dotNET\StaticConst\obj\Debug\net7.0\StaticConst.AssemblyInfo.cs
+A:\Placement\dotNET\StaticConst\obj\Debug\net7.0\StaticConst.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\StaticConst\obj\Debug\net7.0\StaticConst.dll
+A:\Placement\dotNET\StaticConst\obj\Debug\net7.0\refint\StaticConst.dll
+A:\Placement\dotNET\StaticConst\obj\Debug\net7.0\StaticConst.pdb
+A:\Placement\dotNET\StaticConst\obj\Debug\net7.0\StaticConst.genruntimeconfig.cache
+A:\Placement\dotNET\StaticConst\obj\Debug\net7.0\ref\StaticConst.dll

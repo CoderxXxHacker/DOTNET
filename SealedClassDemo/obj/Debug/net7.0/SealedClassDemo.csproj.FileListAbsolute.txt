@@ -1,0 +1,15 @@
+A:\Placement\dotNET\SealedClassDemo\bin\Debug\net7.0\SealedClassDemo.exe
+A:\Placement\dotNET\SealedClassDemo\bin\Debug\net7.0\SealedClassDemo.deps.json
+A:\Placement\dotNET\SealedClassDemo\bin\Debug\net7.0\SealedClassDemo.runtimeconfig.json
+A:\Placement\dotNET\SealedClassDemo\bin\Debug\net7.0\SealedClassDemo.dll
+A:\Placement\dotNET\SealedClassDemo\bin\Debug\net7.0\SealedClassDemo.pdb
+A:\Placement\dotNET\SealedClassDemo\obj\Debug\net7.0\SealedClassDemo.csproj.AssemblyReference.cache
+A:\Placement\dotNET\SealedClassDemo\obj\Debug\net7.0\SealedClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\SealedClassDemo\obj\Debug\net7.0\SealedClassDemo.AssemblyInfoInputs.cache
+A:\Placement\dotNET\SealedClassDemo\obj\Debug\net7.0\SealedClassDemo.AssemblyInfo.cs
+A:\Placement\dotNET\SealedClassDemo\obj\Debug\net7.0\SealedClassDemo.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\SealedClassDemo\obj\Debug\net7.0\SealedClassDemo.dll
+A:\Placement\dotNET\SealedClassDemo\obj\Debug\net7.0\refint\SealedClassDemo.dll
+A:\Placement\dotNET\SealedClassDemo\obj\Debug\net7.0\SealedClassDemo.pdb
+A:\Placement\dotNET\SealedClassDemo\obj\Debug\net7.0\SealedClassDemo.genruntimeconfig.cache
+A:\Placement\dotNET\SealedClassDemo\obj\Debug\net7.0\ref\SealedClassDemo.dll

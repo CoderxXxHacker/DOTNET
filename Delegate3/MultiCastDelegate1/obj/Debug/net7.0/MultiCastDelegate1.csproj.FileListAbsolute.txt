@@ -1,0 +1,15 @@
+A:\Placement\dotNET\Delegate3\MultiCastDelegate1\bin\Debug\net7.0\MultiCastDelegate1.exe
+A:\Placement\dotNET\Delegate3\MultiCastDelegate1\bin\Debug\net7.0\MultiCastDelegate1.deps.json
+A:\Placement\dotNET\Delegate3\MultiCastDelegate1\bin\Debug\net7.0\MultiCastDelegate1.runtimeconfig.json
+A:\Placement\dotNET\Delegate3\MultiCastDelegate1\bin\Debug\net7.0\MultiCastDelegate1.dll
+A:\Placement\dotNET\Delegate3\MultiCastDelegate1\bin\Debug\net7.0\MultiCastDelegate1.pdb
+A:\Placement\dotNET\Delegate3\MultiCastDelegate1\obj\Debug\net7.0\MultiCastDelegate1.csproj.AssemblyReference.cache
+A:\Placement\dotNET\Delegate3\MultiCastDelegate1\obj\Debug\net7.0\MultiCastDelegate1.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\Delegate3\MultiCastDelegate1\obj\Debug\net7.0\MultiCastDelegate1.AssemblyInfoInputs.cache
+A:\Placement\dotNET\Delegate3\MultiCastDelegate1\obj\Debug\net7.0\MultiCastDelegate1.AssemblyInfo.cs
+A:\Placement\dotNET\Delegate3\MultiCastDelegate1\obj\Debug\net7.0\MultiCastDelegate1.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\Delegate3\MultiCastDelegate1\obj\Debug\net7.0\MultiCastDelegate1.dll
+A:\Placement\dotNET\Delegate3\MultiCastDelegate1\obj\Debug\net7.0\refint\MultiCastDelegate1.dll
+A:\Placement\dotNET\Delegate3\MultiCastDelegate1\obj\Debug\net7.0\MultiCastDelegate1.pdb
+A:\Placement\dotNET\Delegate3\MultiCastDelegate1\obj\Debug\net7.0\MultiCastDelegate1.genruntimeconfig.cache
+A:\Placement\dotNET\Delegate3\MultiCastDelegate1\obj\Debug\net7.0\ref\MultiCastDelegate1.dll

@@ -1,0 +1,15 @@
+A:\Placement\dotNET\InnerException\bin\Debug\net7.0\InnerException.exe
+A:\Placement\dotNET\InnerException\bin\Debug\net7.0\InnerException.deps.json
+A:\Placement\dotNET\InnerException\bin\Debug\net7.0\InnerException.runtimeconfig.json
+A:\Placement\dotNET\InnerException\bin\Debug\net7.0\InnerException.dll
+A:\Placement\dotNET\InnerException\bin\Debug\net7.0\InnerException.pdb
+A:\Placement\dotNET\InnerException\obj\Debug\net7.0\InnerException.csproj.AssemblyReference.cache
+A:\Placement\dotNET\InnerException\obj\Debug\net7.0\InnerException.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\InnerException\obj\Debug\net7.0\InnerException.AssemblyInfoInputs.cache
+A:\Placement\dotNET\InnerException\obj\Debug\net7.0\InnerException.AssemblyInfo.cs
+A:\Placement\dotNET\InnerException\obj\Debug\net7.0\InnerException.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\InnerException\obj\Debug\net7.0\InnerException.dll
+A:\Placement\dotNET\InnerException\obj\Debug\net7.0\refint\InnerException.dll
+A:\Placement\dotNET\InnerException\obj\Debug\net7.0\InnerException.pdb
+A:\Placement\dotNET\InnerException\obj\Debug\net7.0\InnerException.genruntimeconfig.cache
+A:\Placement\dotNET\InnerException\obj\Debug\net7.0\ref\InnerException.dll

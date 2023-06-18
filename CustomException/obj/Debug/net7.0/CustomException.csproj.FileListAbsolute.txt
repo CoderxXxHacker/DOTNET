@@ -1,0 +1,15 @@
+A:\Placement\dotNET\CustomException\bin\Debug\net7.0\CustomException.exe
+A:\Placement\dotNET\CustomException\bin\Debug\net7.0\CustomException.deps.json
+A:\Placement\dotNET\CustomException\bin\Debug\net7.0\CustomException.runtimeconfig.json
+A:\Placement\dotNET\CustomException\bin\Debug\net7.0\CustomException.dll
+A:\Placement\dotNET\CustomException\bin\Debug\net7.0\CustomException.pdb
+A:\Placement\dotNET\CustomException\obj\Debug\net7.0\CustomException.csproj.AssemblyReference.cache
+A:\Placement\dotNET\CustomException\obj\Debug\net7.0\CustomException.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\CustomException\obj\Debug\net7.0\CustomException.AssemblyInfoInputs.cache
+A:\Placement\dotNET\CustomException\obj\Debug\net7.0\CustomException.AssemblyInfo.cs
+A:\Placement\dotNET\CustomException\obj\Debug\net7.0\CustomException.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\CustomException\obj\Debug\net7.0\CustomException.dll
+A:\Placement\dotNET\CustomException\obj\Debug\net7.0\refint\CustomException.dll
+A:\Placement\dotNET\CustomException\obj\Debug\net7.0\CustomException.pdb
+A:\Placement\dotNET\CustomException\obj\Debug\net7.0\CustomException.genruntimeconfig.cache
+A:\Placement\dotNET\CustomException\obj\Debug\net7.0\ref\CustomException.dll

@@ -1,0 +1,15 @@
+A:\Placement\dotNET\CopyConstructor\bin\Debug\net7.0\CopyConstructor.exe
+A:\Placement\dotNET\CopyConstructor\bin\Debug\net7.0\CopyConstructor.deps.json
+A:\Placement\dotNET\CopyConstructor\bin\Debug\net7.0\CopyConstructor.runtimeconfig.json
+A:\Placement\dotNET\CopyConstructor\bin\Debug\net7.0\CopyConstructor.dll
+A:\Placement\dotNET\CopyConstructor\bin\Debug\net7.0\CopyConstructor.pdb
+A:\Placement\dotNET\CopyConstructor\obj\Debug\net7.0\CopyConstructor.csproj.AssemblyReference.cache
+A:\Placement\dotNET\CopyConstructor\obj\Debug\net7.0\CopyConstructor.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\CopyConstructor\obj\Debug\net7.0\CopyConstructor.AssemblyInfoInputs.cache
+A:\Placement\dotNET\CopyConstructor\obj\Debug\net7.0\CopyConstructor.AssemblyInfo.cs
+A:\Placement\dotNET\CopyConstructor\obj\Debug\net7.0\CopyConstructor.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\CopyConstructor\obj\Debug\net7.0\CopyConstructor.dll
+A:\Placement\dotNET\CopyConstructor\obj\Debug\net7.0\refint\CopyConstructor.dll
+A:\Placement\dotNET\CopyConstructor\obj\Debug\net7.0\CopyConstructor.pdb
+A:\Placement\dotNET\CopyConstructor\obj\Debug\net7.0\CopyConstructor.genruntimeconfig.cache
+A:\Placement\dotNET\CopyConstructor\obj\Debug\net7.0\ref\CopyConstructor.dll

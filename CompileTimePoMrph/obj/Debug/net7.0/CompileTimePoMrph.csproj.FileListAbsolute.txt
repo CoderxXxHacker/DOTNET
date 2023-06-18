@@ -1,0 +1,15 @@
+A:\Placement\dotNET\CompileTimePoMrph\bin\Debug\net7.0\CompileTimePoMrph.exe
+A:\Placement\dotNET\CompileTimePoMrph\bin\Debug\net7.0\CompileTimePoMrph.deps.json
+A:\Placement\dotNET\CompileTimePoMrph\bin\Debug\net7.0\CompileTimePoMrph.runtimeconfig.json
+A:\Placement\dotNET\CompileTimePoMrph\bin\Debug\net7.0\CompileTimePoMrph.dll
+A:\Placement\dotNET\CompileTimePoMrph\bin\Debug\net7.0\CompileTimePoMrph.pdb
+A:\Placement\dotNET\CompileTimePoMrph\obj\Debug\net7.0\CompileTimePoMrph.csproj.AssemblyReference.cache
+A:\Placement\dotNET\CompileTimePoMrph\obj\Debug\net7.0\CompileTimePoMrph.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\CompileTimePoMrph\obj\Debug\net7.0\CompileTimePoMrph.AssemblyInfoInputs.cache
+A:\Placement\dotNET\CompileTimePoMrph\obj\Debug\net7.0\CompileTimePoMrph.AssemblyInfo.cs
+A:\Placement\dotNET\CompileTimePoMrph\obj\Debug\net7.0\CompileTimePoMrph.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\CompileTimePoMrph\obj\Debug\net7.0\CompileTimePoMrph.dll
+A:\Placement\dotNET\CompileTimePoMrph\obj\Debug\net7.0\refint\CompileTimePoMrph.dll
+A:\Placement\dotNET\CompileTimePoMrph\obj\Debug\net7.0\CompileTimePoMrph.pdb
+A:\Placement\dotNET\CompileTimePoMrph\obj\Debug\net7.0\CompileTimePoMrph.genruntimeconfig.cache
+A:\Placement\dotNET\CompileTimePoMrph\obj\Debug\net7.0\ref\CompileTimePoMrph.dll

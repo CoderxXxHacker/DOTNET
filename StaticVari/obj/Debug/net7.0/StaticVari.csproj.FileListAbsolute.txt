@@ -1,0 +1,15 @@
+A:\Placement\dotNET\StaticVari\bin\Debug\net7.0\StaticVari.exe
+A:\Placement\dotNET\StaticVari\bin\Debug\net7.0\StaticVari.deps.json
+A:\Placement\dotNET\StaticVari\bin\Debug\net7.0\StaticVari.runtimeconfig.json
+A:\Placement\dotNET\StaticVari\bin\Debug\net7.0\StaticVari.dll
+A:\Placement\dotNET\StaticVari\bin\Debug\net7.0\StaticVari.pdb
+A:\Placement\dotNET\StaticVari\obj\Debug\net7.0\StaticVari.csproj.AssemblyReference.cache
+A:\Placement\dotNET\StaticVari\obj\Debug\net7.0\StaticVari.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\StaticVari\obj\Debug\net7.0\StaticVari.AssemblyInfoInputs.cache
+A:\Placement\dotNET\StaticVari\obj\Debug\net7.0\StaticVari.AssemblyInfo.cs
+A:\Placement\dotNET\StaticVari\obj\Debug\net7.0\StaticVari.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\StaticVari\obj\Debug\net7.0\StaticVari.dll
+A:\Placement\dotNET\StaticVari\obj\Debug\net7.0\refint\StaticVari.dll
+A:\Placement\dotNET\StaticVari\obj\Debug\net7.0\StaticVari.pdb
+A:\Placement\dotNET\StaticVari\obj\Debug\net7.0\StaticVari.genruntimeconfig.cache
+A:\Placement\dotNET\StaticVari\obj\Debug\net7.0\ref\StaticVari.dll

@@ -1,0 +1,15 @@
+A:\Placement\dotNET\Interface2\bin\Debug\net7.0\Interface2.exe
+A:\Placement\dotNET\Interface2\bin\Debug\net7.0\Interface2.deps.json
+A:\Placement\dotNET\Interface2\bin\Debug\net7.0\Interface2.runtimeconfig.json
+A:\Placement\dotNET\Interface2\bin\Debug\net7.0\Interface2.dll
+A:\Placement\dotNET\Interface2\bin\Debug\net7.0\Interface2.pdb
+A:\Placement\dotNET\Interface2\obj\Debug\net7.0\Interface2.csproj.AssemblyReference.cache
+A:\Placement\dotNET\Interface2\obj\Debug\net7.0\Interface2.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\Interface2\obj\Debug\net7.0\Interface2.AssemblyInfoInputs.cache
+A:\Placement\dotNET\Interface2\obj\Debug\net7.0\Interface2.AssemblyInfo.cs
+A:\Placement\dotNET\Interface2\obj\Debug\net7.0\Interface2.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\Interface2\obj\Debug\net7.0\Interface2.dll
+A:\Placement\dotNET\Interface2\obj\Debug\net7.0\refint\Interface2.dll
+A:\Placement\dotNET\Interface2\obj\Debug\net7.0\Interface2.pdb
+A:\Placement\dotNET\Interface2\obj\Debug\net7.0\Interface2.genruntimeconfig.cache
+A:\Placement\dotNET\Interface2\obj\Debug\net7.0\ref\Interface2.dll

@@ -1,0 +1,15 @@
+A:\Placement\dotNET\ExceptionHandling2\bin\Debug\net7.0\ExceptionHandling2.exe
+A:\Placement\dotNET\ExceptionHandling2\bin\Debug\net7.0\ExceptionHandling2.deps.json
+A:\Placement\dotNET\ExceptionHandling2\bin\Debug\net7.0\ExceptionHandling2.runtimeconfig.json
+A:\Placement\dotNET\ExceptionHandling2\bin\Debug\net7.0\ExceptionHandling2.dll
+A:\Placement\dotNET\ExceptionHandling2\bin\Debug\net7.0\ExceptionHandling2.pdb
+A:\Placement\dotNET\ExceptionHandling2\obj\Debug\net7.0\ExceptionHandling2.csproj.AssemblyReference.cache
+A:\Placement\dotNET\ExceptionHandling2\obj\Debug\net7.0\ExceptionHandling2.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\ExceptionHandling2\obj\Debug\net7.0\ExceptionHandling2.AssemblyInfoInputs.cache
+A:\Placement\dotNET\ExceptionHandling2\obj\Debug\net7.0\ExceptionHandling2.AssemblyInfo.cs
+A:\Placement\dotNET\ExceptionHandling2\obj\Debug\net7.0\ExceptionHandling2.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\ExceptionHandling2\obj\Debug\net7.0\ExceptionHandling2.dll
+A:\Placement\dotNET\ExceptionHandling2\obj\Debug\net7.0\refint\ExceptionHandling2.dll
+A:\Placement\dotNET\ExceptionHandling2\obj\Debug\net7.0\ExceptionHandling2.pdb
+A:\Placement\dotNET\ExceptionHandling2\obj\Debug\net7.0\ExceptionHandling2.genruntimeconfig.cache
+A:\Placement\dotNET\ExceptionHandling2\obj\Debug\net7.0\ref\ExceptionHandling2.dll

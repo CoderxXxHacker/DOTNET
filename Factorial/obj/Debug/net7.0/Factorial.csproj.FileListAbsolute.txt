@@ -1,0 +1,15 @@
+A:\Placement\dotNET\Factorial\bin\Debug\net7.0\Factorial.exe
+A:\Placement\dotNET\Factorial\bin\Debug\net7.0\Factorial.deps.json
+A:\Placement\dotNET\Factorial\bin\Debug\net7.0\Factorial.runtimeconfig.json
+A:\Placement\dotNET\Factorial\bin\Debug\net7.0\Factorial.dll
+A:\Placement\dotNET\Factorial\bin\Debug\net7.0\Factorial.pdb
+A:\Placement\dotNET\Factorial\obj\Debug\net7.0\Factorial.csproj.AssemblyReference.cache
+A:\Placement\dotNET\Factorial\obj\Debug\net7.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\Factorial\obj\Debug\net7.0\Factorial.AssemblyInfoInputs.cache
+A:\Placement\dotNET\Factorial\obj\Debug\net7.0\Factorial.AssemblyInfo.cs
+A:\Placement\dotNET\Factorial\obj\Debug\net7.0\Factorial.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\Factorial\obj\Debug\net7.0\Factorial.dll
+A:\Placement\dotNET\Factorial\obj\Debug\net7.0\refint\Factorial.dll
+A:\Placement\dotNET\Factorial\obj\Debug\net7.0\Factorial.pdb
+A:\Placement\dotNET\Factorial\obj\Debug\net7.0\Factorial.genruntimeconfig.cache
+A:\Placement\dotNET\Factorial\obj\Debug\net7.0\ref\Factorial.dll

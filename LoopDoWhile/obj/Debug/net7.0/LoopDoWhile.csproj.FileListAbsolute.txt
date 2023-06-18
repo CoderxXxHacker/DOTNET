@@ -1,0 +1,15 @@
+A:\Placement\dotNET\LoopDoWhile\bin\Debug\net7.0\LoopDoWhile.exe
+A:\Placement\dotNET\LoopDoWhile\bin\Debug\net7.0\LoopDoWhile.deps.json
+A:\Placement\dotNET\LoopDoWhile\bin\Debug\net7.0\LoopDoWhile.runtimeconfig.json
+A:\Placement\dotNET\LoopDoWhile\bin\Debug\net7.0\LoopDoWhile.dll
+A:\Placement\dotNET\LoopDoWhile\bin\Debug\net7.0\LoopDoWhile.pdb
+A:\Placement\dotNET\LoopDoWhile\obj\Debug\net7.0\LoopDoWhile.csproj.AssemblyReference.cache
+A:\Placement\dotNET\LoopDoWhile\obj\Debug\net7.0\LoopDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\LoopDoWhile\obj\Debug\net7.0\LoopDoWhile.AssemblyInfoInputs.cache
+A:\Placement\dotNET\LoopDoWhile\obj\Debug\net7.0\LoopDoWhile.AssemblyInfo.cs
+A:\Placement\dotNET\LoopDoWhile\obj\Debug\net7.0\LoopDoWhile.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\LoopDoWhile\obj\Debug\net7.0\LoopDoWhile.dll
+A:\Placement\dotNET\LoopDoWhile\obj\Debug\net7.0\refint\LoopDoWhile.dll
+A:\Placement\dotNET\LoopDoWhile\obj\Debug\net7.0\LoopDoWhile.pdb
+A:\Placement\dotNET\LoopDoWhile\obj\Debug\net7.0\LoopDoWhile.genruntimeconfig.cache
+A:\Placement\dotNET\LoopDoWhile\obj\Debug\net7.0\ref\LoopDoWhile.dll

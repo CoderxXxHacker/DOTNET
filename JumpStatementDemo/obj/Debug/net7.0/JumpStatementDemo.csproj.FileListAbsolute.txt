@@ -1,0 +1,15 @@
+A:\Placement\dotNET\JumpStatementDemo\bin\Debug\net7.0\JumpStatementDemo.exe
+A:\Placement\dotNET\JumpStatementDemo\bin\Debug\net7.0\JumpStatementDemo.deps.json
+A:\Placement\dotNET\JumpStatementDemo\bin\Debug\net7.0\JumpStatementDemo.runtimeconfig.json
+A:\Placement\dotNET\JumpStatementDemo\bin\Debug\net7.0\JumpStatementDemo.dll
+A:\Placement\dotNET\JumpStatementDemo\bin\Debug\net7.0\JumpStatementDemo.pdb
+A:\Placement\dotNET\JumpStatementDemo\obj\Debug\net7.0\JumpStatementDemo.csproj.AssemblyReference.cache
+A:\Placement\dotNET\JumpStatementDemo\obj\Debug\net7.0\JumpStatementDemo.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\JumpStatementDemo\obj\Debug\net7.0\JumpStatementDemo.AssemblyInfoInputs.cache
+A:\Placement\dotNET\JumpStatementDemo\obj\Debug\net7.0\JumpStatementDemo.AssemblyInfo.cs
+A:\Placement\dotNET\JumpStatementDemo\obj\Debug\net7.0\JumpStatementDemo.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\JumpStatementDemo\obj\Debug\net7.0\JumpStatementDemo.dll
+A:\Placement\dotNET\JumpStatementDemo\obj\Debug\net7.0\refint\JumpStatementDemo.dll
+A:\Placement\dotNET\JumpStatementDemo\obj\Debug\net7.0\JumpStatementDemo.pdb
+A:\Placement\dotNET\JumpStatementDemo\obj\Debug\net7.0\JumpStatementDemo.genruntimeconfig.cache
+A:\Placement\dotNET\JumpStatementDemo\obj\Debug\net7.0\ref\JumpStatementDemo.dll

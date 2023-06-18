@@ -1,0 +1,15 @@
+A:\Placement\dotNET\InterfaceBank\bin\Debug\net7.0\InterfaceBank.exe
+A:\Placement\dotNET\InterfaceBank\bin\Debug\net7.0\InterfaceBank.deps.json
+A:\Placement\dotNET\InterfaceBank\bin\Debug\net7.0\InterfaceBank.runtimeconfig.json
+A:\Placement\dotNET\InterfaceBank\bin\Debug\net7.0\InterfaceBank.dll
+A:\Placement\dotNET\InterfaceBank\bin\Debug\net7.0\InterfaceBank.pdb
+A:\Placement\dotNET\InterfaceBank\obj\Debug\net7.0\InterfaceBank.csproj.AssemblyReference.cache
+A:\Placement\dotNET\InterfaceBank\obj\Debug\net7.0\InterfaceBank.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\InterfaceBank\obj\Debug\net7.0\InterfaceBank.AssemblyInfoInputs.cache
+A:\Placement\dotNET\InterfaceBank\obj\Debug\net7.0\InterfaceBank.AssemblyInfo.cs
+A:\Placement\dotNET\InterfaceBank\obj\Debug\net7.0\InterfaceBank.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\InterfaceBank\obj\Debug\net7.0\InterfaceBank.dll
+A:\Placement\dotNET\InterfaceBank\obj\Debug\net7.0\refint\InterfaceBank.dll
+A:\Placement\dotNET\InterfaceBank\obj\Debug\net7.0\InterfaceBank.pdb
+A:\Placement\dotNET\InterfaceBank\obj\Debug\net7.0\InterfaceBank.genruntimeconfig.cache
+A:\Placement\dotNET\InterfaceBank\obj\Debug\net7.0\ref\InterfaceBank.dll

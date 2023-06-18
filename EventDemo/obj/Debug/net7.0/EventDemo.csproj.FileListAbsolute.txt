@@ -1,0 +1,15 @@
+A:\Placement\dotNET\EventDemo\bin\Debug\net7.0\EventDemo.exe
+A:\Placement\dotNET\EventDemo\bin\Debug\net7.0\EventDemo.deps.json
+A:\Placement\dotNET\EventDemo\bin\Debug\net7.0\EventDemo.runtimeconfig.json
+A:\Placement\dotNET\EventDemo\bin\Debug\net7.0\EventDemo.dll
+A:\Placement\dotNET\EventDemo\bin\Debug\net7.0\EventDemo.pdb
+A:\Placement\dotNET\EventDemo\obj\Debug\net7.0\EventDemo.csproj.AssemblyReference.cache
+A:\Placement\dotNET\EventDemo\obj\Debug\net7.0\EventDemo.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\EventDemo\obj\Debug\net7.0\EventDemo.AssemblyInfoInputs.cache
+A:\Placement\dotNET\EventDemo\obj\Debug\net7.0\EventDemo.AssemblyInfo.cs
+A:\Placement\dotNET\EventDemo\obj\Debug\net7.0\EventDemo.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\EventDemo\obj\Debug\net7.0\EventDemo.dll
+A:\Placement\dotNET\EventDemo\obj\Debug\net7.0\refint\EventDemo.dll
+A:\Placement\dotNET\EventDemo\obj\Debug\net7.0\EventDemo.pdb
+A:\Placement\dotNET\EventDemo\obj\Debug\net7.0\EventDemo.genruntimeconfig.cache
+A:\Placement\dotNET\EventDemo\obj\Debug\net7.0\ref\EventDemo.dll

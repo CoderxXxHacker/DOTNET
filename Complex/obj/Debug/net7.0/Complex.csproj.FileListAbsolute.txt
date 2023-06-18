@@ -1,0 +1,15 @@
+A:\Placement\dotNET\Complex\bin\Debug\net7.0\Complex.exe
+A:\Placement\dotNET\Complex\bin\Debug\net7.0\Complex.deps.json
+A:\Placement\dotNET\Complex\bin\Debug\net7.0\Complex.runtimeconfig.json
+A:\Placement\dotNET\Complex\bin\Debug\net7.0\Complex.dll
+A:\Placement\dotNET\Complex\bin\Debug\net7.0\Complex.pdb
+A:\Placement\dotNET\Complex\obj\Debug\net7.0\Complex.csproj.AssemblyReference.cache
+A:\Placement\dotNET\Complex\obj\Debug\net7.0\Complex.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\Complex\obj\Debug\net7.0\Complex.AssemblyInfoInputs.cache
+A:\Placement\dotNET\Complex\obj\Debug\net7.0\Complex.AssemblyInfo.cs
+A:\Placement\dotNET\Complex\obj\Debug\net7.0\Complex.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\Complex\obj\Debug\net7.0\Complex.dll
+A:\Placement\dotNET\Complex\obj\Debug\net7.0\refint\Complex.dll
+A:\Placement\dotNET\Complex\obj\Debug\net7.0\Complex.pdb
+A:\Placement\dotNET\Complex\obj\Debug\net7.0\Complex.genruntimeconfig.cache
+A:\Placement\dotNET\Complex\obj\Debug\net7.0\ref\Complex.dll

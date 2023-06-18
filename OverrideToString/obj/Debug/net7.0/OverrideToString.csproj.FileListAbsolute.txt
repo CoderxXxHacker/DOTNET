@@ -1,0 +1,15 @@
+A:\Placement\dotNET\OverrideToString\bin\Debug\net7.0\OverrideToString.exe
+A:\Placement\dotNET\OverrideToString\bin\Debug\net7.0\OverrideToString.deps.json
+A:\Placement\dotNET\OverrideToString\bin\Debug\net7.0\OverrideToString.runtimeconfig.json
+A:\Placement\dotNET\OverrideToString\bin\Debug\net7.0\OverrideToString.dll
+A:\Placement\dotNET\OverrideToString\bin\Debug\net7.0\OverrideToString.pdb
+A:\Placement\dotNET\OverrideToString\obj\Debug\net7.0\OverrideToString.csproj.AssemblyReference.cache
+A:\Placement\dotNET\OverrideToString\obj\Debug\net7.0\OverrideToString.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\OverrideToString\obj\Debug\net7.0\OverrideToString.AssemblyInfoInputs.cache
+A:\Placement\dotNET\OverrideToString\obj\Debug\net7.0\OverrideToString.AssemblyInfo.cs
+A:\Placement\dotNET\OverrideToString\obj\Debug\net7.0\OverrideToString.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\OverrideToString\obj\Debug\net7.0\OverrideToString.dll
+A:\Placement\dotNET\OverrideToString\obj\Debug\net7.0\refint\OverrideToString.dll
+A:\Placement\dotNET\OverrideToString\obj\Debug\net7.0\OverrideToString.pdb
+A:\Placement\dotNET\OverrideToString\obj\Debug\net7.0\OverrideToString.genruntimeconfig.cache
+A:\Placement\dotNET\OverrideToString\obj\Debug\net7.0\ref\OverrideToString.dll

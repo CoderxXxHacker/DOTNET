@@ -1,0 +1,15 @@
+A:\Placement\dotNET\MethodOverridingBonus\bin\Debug\net7.0\MethodOverridingBonus.exe
+A:\Placement\dotNET\MethodOverridingBonus\bin\Debug\net7.0\MethodOverridingBonus.deps.json
+A:\Placement\dotNET\MethodOverridingBonus\bin\Debug\net7.0\MethodOverridingBonus.runtimeconfig.json
+A:\Placement\dotNET\MethodOverridingBonus\bin\Debug\net7.0\MethodOverridingBonus.dll
+A:\Placement\dotNET\MethodOverridingBonus\bin\Debug\net7.0\MethodOverridingBonus.pdb
+A:\Placement\dotNET\MethodOverridingBonus\obj\Debug\net7.0\MethodOverridingBonus.csproj.AssemblyReference.cache
+A:\Placement\dotNET\MethodOverridingBonus\obj\Debug\net7.0\MethodOverridingBonus.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\MethodOverridingBonus\obj\Debug\net7.0\MethodOverridingBonus.AssemblyInfoInputs.cache
+A:\Placement\dotNET\MethodOverridingBonus\obj\Debug\net7.0\MethodOverridingBonus.AssemblyInfo.cs
+A:\Placement\dotNET\MethodOverridingBonus\obj\Debug\net7.0\MethodOverridingBonus.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\MethodOverridingBonus\obj\Debug\net7.0\MethodOverridingBonus.dll
+A:\Placement\dotNET\MethodOverridingBonus\obj\Debug\net7.0\refint\MethodOverridingBonus.dll
+A:\Placement\dotNET\MethodOverridingBonus\obj\Debug\net7.0\MethodOverridingBonus.pdb
+A:\Placement\dotNET\MethodOverridingBonus\obj\Debug\net7.0\MethodOverridingBonus.genruntimeconfig.cache
+A:\Placement\dotNET\MethodOverridingBonus\obj\Debug\net7.0\ref\MethodOverridingBonus.dll

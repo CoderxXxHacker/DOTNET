@@ -1,0 +1,15 @@
+A:\Placement\dotNET\LoopDemo\bin\Debug\net7.0\LoopDemo.exe
+A:\Placement\dotNET\LoopDemo\bin\Debug\net7.0\LoopDemo.deps.json
+A:\Placement\dotNET\LoopDemo\bin\Debug\net7.0\LoopDemo.runtimeconfig.json
+A:\Placement\dotNET\LoopDemo\bin\Debug\net7.0\LoopDemo.dll
+A:\Placement\dotNET\LoopDemo\bin\Debug\net7.0\LoopDemo.pdb
+A:\Placement\dotNET\LoopDemo\obj\Debug\net7.0\LoopDemo.csproj.AssemblyReference.cache
+A:\Placement\dotNET\LoopDemo\obj\Debug\net7.0\LoopDemo.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\LoopDemo\obj\Debug\net7.0\LoopDemo.AssemblyInfoInputs.cache
+A:\Placement\dotNET\LoopDemo\obj\Debug\net7.0\LoopDemo.AssemblyInfo.cs
+A:\Placement\dotNET\LoopDemo\obj\Debug\net7.0\LoopDemo.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\LoopDemo\obj\Debug\net7.0\LoopDemo.dll
+A:\Placement\dotNET\LoopDemo\obj\Debug\net7.0\refint\LoopDemo.dll
+A:\Placement\dotNET\LoopDemo\obj\Debug\net7.0\LoopDemo.pdb
+A:\Placement\dotNET\LoopDemo\obj\Debug\net7.0\LoopDemo.genruntimeconfig.cache
+A:\Placement\dotNET\LoopDemo\obj\Debug\net7.0\ref\LoopDemo.dll

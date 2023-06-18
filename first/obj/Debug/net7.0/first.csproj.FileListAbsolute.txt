@@ -1,0 +1,15 @@
+A:\Placement\dotNET\first\bin\Debug\net7.0\first.exe
+A:\Placement\dotNET\first\bin\Debug\net7.0\first.deps.json
+A:\Placement\dotNET\first\bin\Debug\net7.0\first.runtimeconfig.json
+A:\Placement\dotNET\first\bin\Debug\net7.0\first.dll
+A:\Placement\dotNET\first\bin\Debug\net7.0\first.pdb
+A:\Placement\dotNET\first\obj\Debug\net7.0\first.csproj.AssemblyReference.cache
+A:\Placement\dotNET\first\obj\Debug\net7.0\first.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\first\obj\Debug\net7.0\first.AssemblyInfoInputs.cache
+A:\Placement\dotNET\first\obj\Debug\net7.0\first.AssemblyInfo.cs
+A:\Placement\dotNET\first\obj\Debug\net7.0\first.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\first\obj\Debug\net7.0\first.dll
+A:\Placement\dotNET\first\obj\Debug\net7.0\refint\first.dll
+A:\Placement\dotNET\first\obj\Debug\net7.0\first.pdb
+A:\Placement\dotNET\first\obj\Debug\net7.0\first.genruntimeconfig.cache
+A:\Placement\dotNET\first\obj\Debug\net7.0\ref\first.dll

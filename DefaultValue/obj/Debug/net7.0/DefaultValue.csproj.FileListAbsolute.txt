@@ -1,0 +1,15 @@
+A:\Placement\dotNET\DefaultValue\bin\Debug\net7.0\DefaultValue.exe
+A:\Placement\dotNET\DefaultValue\bin\Debug\net7.0\DefaultValue.deps.json
+A:\Placement\dotNET\DefaultValue\bin\Debug\net7.0\DefaultValue.runtimeconfig.json
+A:\Placement\dotNET\DefaultValue\bin\Debug\net7.0\DefaultValue.dll
+A:\Placement\dotNET\DefaultValue\bin\Debug\net7.0\DefaultValue.pdb
+A:\Placement\dotNET\DefaultValue\obj\Debug\net7.0\DefaultValue.csproj.AssemblyReference.cache
+A:\Placement\dotNET\DefaultValue\obj\Debug\net7.0\DefaultValue.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\DefaultValue\obj\Debug\net7.0\DefaultValue.AssemblyInfoInputs.cache
+A:\Placement\dotNET\DefaultValue\obj\Debug\net7.0\DefaultValue.AssemblyInfo.cs
+A:\Placement\dotNET\DefaultValue\obj\Debug\net7.0\DefaultValue.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\DefaultValue\obj\Debug\net7.0\DefaultValue.dll
+A:\Placement\dotNET\DefaultValue\obj\Debug\net7.0\refint\DefaultValue.dll
+A:\Placement\dotNET\DefaultValue\obj\Debug\net7.0\DefaultValue.pdb
+A:\Placement\dotNET\DefaultValue\obj\Debug\net7.0\DefaultValue.genruntimeconfig.cache
+A:\Placement\dotNET\DefaultValue\obj\Debug\net7.0\ref\DefaultValue.dll

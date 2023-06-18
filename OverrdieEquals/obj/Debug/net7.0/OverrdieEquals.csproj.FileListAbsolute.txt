@@ -1,0 +1,15 @@
+A:\Placement\dotNET\OverrdieEquals\bin\Debug\net7.0\OverrdieEquals.exe
+A:\Placement\dotNET\OverrdieEquals\bin\Debug\net7.0\OverrdieEquals.deps.json
+A:\Placement\dotNET\OverrdieEquals\bin\Debug\net7.0\OverrdieEquals.runtimeconfig.json
+A:\Placement\dotNET\OverrdieEquals\bin\Debug\net7.0\OverrdieEquals.dll
+A:\Placement\dotNET\OverrdieEquals\bin\Debug\net7.0\OverrdieEquals.pdb
+A:\Placement\dotNET\OverrdieEquals\obj\Debug\net7.0\OverrdieEquals.csproj.AssemblyReference.cache
+A:\Placement\dotNET\OverrdieEquals\obj\Debug\net7.0\OverrdieEquals.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\OverrdieEquals\obj\Debug\net7.0\OverrdieEquals.AssemblyInfoInputs.cache
+A:\Placement\dotNET\OverrdieEquals\obj\Debug\net7.0\OverrdieEquals.AssemblyInfo.cs
+A:\Placement\dotNET\OverrdieEquals\obj\Debug\net7.0\OverrdieEquals.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\OverrdieEquals\obj\Debug\net7.0\OverrdieEquals.dll
+A:\Placement\dotNET\OverrdieEquals\obj\Debug\net7.0\refint\OverrdieEquals.dll
+A:\Placement\dotNET\OverrdieEquals\obj\Debug\net7.0\OverrdieEquals.pdb
+A:\Placement\dotNET\OverrdieEquals\obj\Debug\net7.0\OverrdieEquals.genruntimeconfig.cache
+A:\Placement\dotNET\OverrdieEquals\obj\Debug\net7.0\ref\OverrdieEquals.dll

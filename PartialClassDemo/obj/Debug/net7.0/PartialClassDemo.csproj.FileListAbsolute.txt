@@ -1,0 +1,15 @@
+A:\Placement\dotNET\PartialClassDemo\bin\Debug\net7.0\PartialClassDemo.exe
+A:\Placement\dotNET\PartialClassDemo\bin\Debug\net7.0\PartialClassDemo.deps.json
+A:\Placement\dotNET\PartialClassDemo\bin\Debug\net7.0\PartialClassDemo.runtimeconfig.json
+A:\Placement\dotNET\PartialClassDemo\bin\Debug\net7.0\PartialClassDemo.dll
+A:\Placement\dotNET\PartialClassDemo\bin\Debug\net7.0\PartialClassDemo.pdb
+A:\Placement\dotNET\PartialClassDemo\obj\Debug\net7.0\PartialClassDemo.csproj.AssemblyReference.cache
+A:\Placement\dotNET\PartialClassDemo\obj\Debug\net7.0\PartialClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\PartialClassDemo\obj\Debug\net7.0\PartialClassDemo.AssemblyInfoInputs.cache
+A:\Placement\dotNET\PartialClassDemo\obj\Debug\net7.0\PartialClassDemo.AssemblyInfo.cs
+A:\Placement\dotNET\PartialClassDemo\obj\Debug\net7.0\PartialClassDemo.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\PartialClassDemo\obj\Debug\net7.0\PartialClassDemo.dll
+A:\Placement\dotNET\PartialClassDemo\obj\Debug\net7.0\refint\PartialClassDemo.dll
+A:\Placement\dotNET\PartialClassDemo\obj\Debug\net7.0\PartialClassDemo.pdb
+A:\Placement\dotNET\PartialClassDemo\obj\Debug\net7.0\PartialClassDemo.genruntimeconfig.cache
+A:\Placement\dotNET\PartialClassDemo\obj\Debug\net7.0\ref\PartialClassDemo.dll

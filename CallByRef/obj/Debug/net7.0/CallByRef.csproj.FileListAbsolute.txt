@@ -1,0 +1,15 @@
+A:\Placement\dotNET\CallByRef\bin\Debug\net7.0\CallByRef.exe
+A:\Placement\dotNET\CallByRef\bin\Debug\net7.0\CallByRef.deps.json
+A:\Placement\dotNET\CallByRef\bin\Debug\net7.0\CallByRef.runtimeconfig.json
+A:\Placement\dotNET\CallByRef\bin\Debug\net7.0\CallByRef.dll
+A:\Placement\dotNET\CallByRef\bin\Debug\net7.0\CallByRef.pdb
+A:\Placement\dotNET\CallByRef\obj\Debug\net7.0\CallByRef.csproj.AssemblyReference.cache
+A:\Placement\dotNET\CallByRef\obj\Debug\net7.0\CallByRef.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\CallByRef\obj\Debug\net7.0\CallByRef.AssemblyInfoInputs.cache
+A:\Placement\dotNET\CallByRef\obj\Debug\net7.0\CallByRef.AssemblyInfo.cs
+A:\Placement\dotNET\CallByRef\obj\Debug\net7.0\CallByRef.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\CallByRef\obj\Debug\net7.0\CallByRef.dll
+A:\Placement\dotNET\CallByRef\obj\Debug\net7.0\refint\CallByRef.dll
+A:\Placement\dotNET\CallByRef\obj\Debug\net7.0\CallByRef.pdb
+A:\Placement\dotNET\CallByRef\obj\Debug\net7.0\CallByRef.genruntimeconfig.cache
+A:\Placement\dotNET\CallByRef\obj\Debug\net7.0\ref\CallByRef.dll

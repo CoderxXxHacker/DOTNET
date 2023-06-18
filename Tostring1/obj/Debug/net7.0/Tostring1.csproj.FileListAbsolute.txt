@@ -1,0 +1,15 @@
+A:\Placement\dotNET\Tostring1\bin\Debug\net7.0\Tostring1.exe
+A:\Placement\dotNET\Tostring1\bin\Debug\net7.0\Tostring1.deps.json
+A:\Placement\dotNET\Tostring1\bin\Debug\net7.0\Tostring1.runtimeconfig.json
+A:\Placement\dotNET\Tostring1\bin\Debug\net7.0\Tostring1.dll
+A:\Placement\dotNET\Tostring1\bin\Debug\net7.0\Tostring1.pdb
+A:\Placement\dotNET\Tostring1\obj\Debug\net7.0\Tostring1.csproj.AssemblyReference.cache
+A:\Placement\dotNET\Tostring1\obj\Debug\net7.0\Tostring1.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\Tostring1\obj\Debug\net7.0\Tostring1.AssemblyInfoInputs.cache
+A:\Placement\dotNET\Tostring1\obj\Debug\net7.0\Tostring1.AssemblyInfo.cs
+A:\Placement\dotNET\Tostring1\obj\Debug\net7.0\Tostring1.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\Tostring1\obj\Debug\net7.0\Tostring1.dll
+A:\Placement\dotNET\Tostring1\obj\Debug\net7.0\refint\Tostring1.dll
+A:\Placement\dotNET\Tostring1\obj\Debug\net7.0\Tostring1.pdb
+A:\Placement\dotNET\Tostring1\obj\Debug\net7.0\Tostring1.genruntimeconfig.cache
+A:\Placement\dotNET\Tostring1\obj\Debug\net7.0\ref\Tostring1.dll

@@ -1,0 +1,15 @@
+A:\Placement\dotNET\FunctionOverloading\bin\Debug\net7.0\FunctionOverloading.exe
+A:\Placement\dotNET\FunctionOverloading\bin\Debug\net7.0\FunctionOverloading.deps.json
+A:\Placement\dotNET\FunctionOverloading\bin\Debug\net7.0\FunctionOverloading.runtimeconfig.json
+A:\Placement\dotNET\FunctionOverloading\bin\Debug\net7.0\FunctionOverloading.dll
+A:\Placement\dotNET\FunctionOverloading\bin\Debug\net7.0\FunctionOverloading.pdb
+A:\Placement\dotNET\FunctionOverloading\obj\Debug\net7.0\FunctionOverloading.csproj.AssemblyReference.cache
+A:\Placement\dotNET\FunctionOverloading\obj\Debug\net7.0\FunctionOverloading.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\FunctionOverloading\obj\Debug\net7.0\FunctionOverloading.AssemblyInfoInputs.cache
+A:\Placement\dotNET\FunctionOverloading\obj\Debug\net7.0\FunctionOverloading.AssemblyInfo.cs
+A:\Placement\dotNET\FunctionOverloading\obj\Debug\net7.0\FunctionOverloading.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\FunctionOverloading\obj\Debug\net7.0\FunctionOverloading.dll
+A:\Placement\dotNET\FunctionOverloading\obj\Debug\net7.0\refint\FunctionOverloading.dll
+A:\Placement\dotNET\FunctionOverloading\obj\Debug\net7.0\FunctionOverloading.pdb
+A:\Placement\dotNET\FunctionOverloading\obj\Debug\net7.0\FunctionOverloading.genruntimeconfig.cache
+A:\Placement\dotNET\FunctionOverloading\obj\Debug\net7.0\ref\FunctionOverloading.dll

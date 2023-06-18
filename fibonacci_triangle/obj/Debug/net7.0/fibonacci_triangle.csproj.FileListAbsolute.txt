@@ -1,0 +1,15 @@
+A:\Placement\dotNET\fibonacci_triangle\obj\Debug\net7.0\fibonacci_triangle.csproj.AssemblyReference.cache
+A:\Placement\dotNET\fibonacci_triangle\obj\Debug\net7.0\fibonacci_triangle.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\fibonacci_triangle\obj\Debug\net7.0\fibonacci_triangle.AssemblyInfoInputs.cache
+A:\Placement\dotNET\fibonacci_triangle\obj\Debug\net7.0\fibonacci_triangle.AssemblyInfo.cs
+A:\Placement\dotNET\fibonacci_triangle\obj\Debug\net7.0\fibonacci_triangle.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\fibonacci_triangle\bin\Debug\net7.0\fibonacci_triangle.exe
+A:\Placement\dotNET\fibonacci_triangle\bin\Debug\net7.0\fibonacci_triangle.deps.json
+A:\Placement\dotNET\fibonacci_triangle\bin\Debug\net7.0\fibonacci_triangle.runtimeconfig.json
+A:\Placement\dotNET\fibonacci_triangle\bin\Debug\net7.0\fibonacci_triangle.dll
+A:\Placement\dotNET\fibonacci_triangle\bin\Debug\net7.0\fibonacci_triangle.pdb
+A:\Placement\dotNET\fibonacci_triangle\obj\Debug\net7.0\fibonacci_triangle.dll
+A:\Placement\dotNET\fibonacci_triangle\obj\Debug\net7.0\refint\fibonacci_triangle.dll
+A:\Placement\dotNET\fibonacci_triangle\obj\Debug\net7.0\fibonacci_triangle.pdb
+A:\Placement\dotNET\fibonacci_triangle\obj\Debug\net7.0\fibonacci_triangle.genruntimeconfig.cache
+A:\Placement\dotNET\fibonacci_triangle\obj\Debug\net7.0\ref\fibonacci_triangle.dll

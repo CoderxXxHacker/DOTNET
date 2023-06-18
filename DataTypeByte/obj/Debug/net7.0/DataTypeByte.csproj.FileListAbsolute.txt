@@ -1,0 +1,15 @@
+A:\Placement\dotNET\DataTypeByte\bin\Debug\net7.0\DataTypeByte.exe
+A:\Placement\dotNET\DataTypeByte\bin\Debug\net7.0\DataTypeByte.deps.json
+A:\Placement\dotNET\DataTypeByte\bin\Debug\net7.0\DataTypeByte.runtimeconfig.json
+A:\Placement\dotNET\DataTypeByte\bin\Debug\net7.0\DataTypeByte.dll
+A:\Placement\dotNET\DataTypeByte\bin\Debug\net7.0\DataTypeByte.pdb
+A:\Placement\dotNET\DataTypeByte\obj\Debug\net7.0\DataTypeByte.csproj.AssemblyReference.cache
+A:\Placement\dotNET\DataTypeByte\obj\Debug\net7.0\DataTypeByte.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\DataTypeByte\obj\Debug\net7.0\DataTypeByte.AssemblyInfoInputs.cache
+A:\Placement\dotNET\DataTypeByte\obj\Debug\net7.0\DataTypeByte.AssemblyInfo.cs
+A:\Placement\dotNET\DataTypeByte\obj\Debug\net7.0\DataTypeByte.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\DataTypeByte\obj\Debug\net7.0\DataTypeByte.dll
+A:\Placement\dotNET\DataTypeByte\obj\Debug\net7.0\refint\DataTypeByte.dll
+A:\Placement\dotNET\DataTypeByte\obj\Debug\net7.0\DataTypeByte.pdb
+A:\Placement\dotNET\DataTypeByte\obj\Debug\net7.0\DataTypeByte.genruntimeconfig.cache
+A:\Placement\dotNET\DataTypeByte\obj\Debug\net7.0\ref\DataTypeByte.dll

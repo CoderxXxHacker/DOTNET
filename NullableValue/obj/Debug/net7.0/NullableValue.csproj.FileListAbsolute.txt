@@ -1,0 +1,15 @@
+A:\Placement\dotNET\NullableValue\bin\Debug\net7.0\NullableValue.exe
+A:\Placement\dotNET\NullableValue\bin\Debug\net7.0\NullableValue.deps.json
+A:\Placement\dotNET\NullableValue\bin\Debug\net7.0\NullableValue.runtimeconfig.json
+A:\Placement\dotNET\NullableValue\bin\Debug\net7.0\NullableValue.dll
+A:\Placement\dotNET\NullableValue\bin\Debug\net7.0\NullableValue.pdb
+A:\Placement\dotNET\NullableValue\obj\Debug\net7.0\NullableValue.csproj.AssemblyReference.cache
+A:\Placement\dotNET\NullableValue\obj\Debug\net7.0\NullableValue.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\NullableValue\obj\Debug\net7.0\NullableValue.AssemblyInfoInputs.cache
+A:\Placement\dotNET\NullableValue\obj\Debug\net7.0\NullableValue.AssemblyInfo.cs
+A:\Placement\dotNET\NullableValue\obj\Debug\net7.0\NullableValue.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\NullableValue\obj\Debug\net7.0\NullableValue.dll
+A:\Placement\dotNET\NullableValue\obj\Debug\net7.0\refint\NullableValue.dll
+A:\Placement\dotNET\NullableValue\obj\Debug\net7.0\NullableValue.pdb
+A:\Placement\dotNET\NullableValue\obj\Debug\net7.0\NullableValue.genruntimeconfig.cache
+A:\Placement\dotNET\NullableValue\obj\Debug\net7.0\ref\NullableValue.dll

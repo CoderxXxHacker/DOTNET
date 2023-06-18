@@ -1,0 +1,15 @@
+A:\Placement\dotNET\Chhecked\bin\Debug\net7.0\Chhecked.exe
+A:\Placement\dotNET\Chhecked\bin\Debug\net7.0\Chhecked.deps.json
+A:\Placement\dotNET\Chhecked\bin\Debug\net7.0\Chhecked.runtimeconfig.json
+A:\Placement\dotNET\Chhecked\bin\Debug\net7.0\Chhecked.dll
+A:\Placement\dotNET\Chhecked\bin\Debug\net7.0\Chhecked.pdb
+A:\Placement\dotNET\Chhecked\obj\Debug\net7.0\Chhecked.csproj.AssemblyReference.cache
+A:\Placement\dotNET\Chhecked\obj\Debug\net7.0\Chhecked.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\Chhecked\obj\Debug\net7.0\Chhecked.AssemblyInfoInputs.cache
+A:\Placement\dotNET\Chhecked\obj\Debug\net7.0\Chhecked.AssemblyInfo.cs
+A:\Placement\dotNET\Chhecked\obj\Debug\net7.0\Chhecked.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\Chhecked\obj\Debug\net7.0\Chhecked.dll
+A:\Placement\dotNET\Chhecked\obj\Debug\net7.0\refint\Chhecked.dll
+A:\Placement\dotNET\Chhecked\obj\Debug\net7.0\Chhecked.pdb
+A:\Placement\dotNET\Chhecked\obj\Debug\net7.0\Chhecked.genruntimeconfig.cache
+A:\Placement\dotNET\Chhecked\obj\Debug\net7.0\ref\Chhecked.dll

@@ -1,0 +1,15 @@
+A:\Placement\dotNET\hcf\bin\Debug\net7.0\hcf.exe
+A:\Placement\dotNET\hcf\bin\Debug\net7.0\hcf.deps.json
+A:\Placement\dotNET\hcf\bin\Debug\net7.0\hcf.runtimeconfig.json
+A:\Placement\dotNET\hcf\bin\Debug\net7.0\hcf.dll
+A:\Placement\dotNET\hcf\bin\Debug\net7.0\hcf.pdb
+A:\Placement\dotNET\hcf\obj\Debug\net7.0\hcf.csproj.AssemblyReference.cache
+A:\Placement\dotNET\hcf\obj\Debug\net7.0\hcf.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\hcf\obj\Debug\net7.0\hcf.AssemblyInfoInputs.cache
+A:\Placement\dotNET\hcf\obj\Debug\net7.0\hcf.AssemblyInfo.cs
+A:\Placement\dotNET\hcf\obj\Debug\net7.0\hcf.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\hcf\obj\Debug\net7.0\hcf.dll
+A:\Placement\dotNET\hcf\obj\Debug\net7.0\refint\hcf.dll
+A:\Placement\dotNET\hcf\obj\Debug\net7.0\hcf.pdb
+A:\Placement\dotNET\hcf\obj\Debug\net7.0\hcf.genruntimeconfig.cache
+A:\Placement\dotNET\hcf\obj\Debug\net7.0\ref\hcf.dll

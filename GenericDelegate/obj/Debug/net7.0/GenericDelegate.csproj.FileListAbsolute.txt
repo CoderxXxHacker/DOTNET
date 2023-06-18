@@ -1,0 +1,15 @@
+A:\Placement\dotNET\GenericDelegate\bin\Debug\net7.0\GenericDelegate.exe
+A:\Placement\dotNET\GenericDelegate\bin\Debug\net7.0\GenericDelegate.deps.json
+A:\Placement\dotNET\GenericDelegate\bin\Debug\net7.0\GenericDelegate.runtimeconfig.json
+A:\Placement\dotNET\GenericDelegate\bin\Debug\net7.0\GenericDelegate.dll
+A:\Placement\dotNET\GenericDelegate\bin\Debug\net7.0\GenericDelegate.pdb
+A:\Placement\dotNET\GenericDelegate\obj\Debug\net7.0\GenericDelegate.csproj.AssemblyReference.cache
+A:\Placement\dotNET\GenericDelegate\obj\Debug\net7.0\GenericDelegate.GeneratedMSBuildEditorConfig.editorconfig
+A:\Placement\dotNET\GenericDelegate\obj\Debug\net7.0\GenericDelegate.AssemblyInfoInputs.cache
+A:\Placement\dotNET\GenericDelegate\obj\Debug\net7.0\GenericDelegate.AssemblyInfo.cs
+A:\Placement\dotNET\GenericDelegate\obj\Debug\net7.0\GenericDelegate.csproj.CoreCompileInputs.cache
+A:\Placement\dotNET\GenericDelegate\obj\Debug\net7.0\GenericDelegate.dll
+A:\Placement\dotNET\GenericDelegate\obj\Debug\net7.0\refint\GenericDelegate.dll
+A:\Placement\dotNET\GenericDelegate\obj\Debug\net7.0\GenericDelegate.pdb
+A:\Placement\dotNET\GenericDelegate\obj\Debug\net7.0\GenericDelegate.genruntimeconfig.cache
+A:\Placement\dotNET\GenericDelegate\obj\Debug\net7.0\ref\GenericDelegate.dll
